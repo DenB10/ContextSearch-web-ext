@@ -769,6 +769,10 @@
     "message": "invisible"
   },
   
+  "KeepMenuOpen": {
+    "message": "Garder le menu ouvert"
+  },
+    
   "_________": {
     "message": "",
     "description": ""
